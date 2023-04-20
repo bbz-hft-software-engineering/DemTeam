@@ -1,0 +1,18 @@
+Usecase:
+-> der usecase soll dem Finalen Produnkt entsprechen. wenn Änderungen vorgenommen werden, sollten diese dokumentiert sein
+
+Name: Der Name soll den Usecase beschreiben
+
+Nichtfunktionale Anforderungen:
+-> diese Anforderungen müssen messbar sein
+
+Sequenzdiagram
+-> Die doppelete "gehe zu Taste", "drücke taste" könnte weggelassen werden. Muss aber nicht angepasst werden.
+
+Code:
+Der code kann in mehrere Funktionen eingeteilt werden um die Lesbarkeit zu erhöhen.
+z.b. gehe zu 0 position, calc angle, move Axis usw.
+
+sämtliche Koordinaten können unten an den Code angehängt werden und mit einer getCoordinates funktion oder ähnlich aufgerufen werden.
+
+-> kann anhand eines diagramms zur darstellung des Codes gemacht werden.
