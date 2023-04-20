@@ -30,7 +30,7 @@ task main()
 
 	//init Konstanten
 
-
+// DAS IST EIN TEST - AENDERUNGSKOMMENTAR
 
 	//init temp zero Pos
 	setMotorBrakeMode(AxisA,motorBrake);
